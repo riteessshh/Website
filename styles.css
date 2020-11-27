@@ -1,0 +1,146 @@
+body {
+  background-color: #fbf6f0
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+
+hr{
+  margin: 75px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  border-color: grey;
+  width: 7%;
+}
+
+h1 {
+  color: #ffda77;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #ffda77;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 2.2rem;
+  font-weight: normal;
+  margin: 10 auto;
+  line-height: normal;
+}
+
+h3 {
+  color: #aee6e6;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.ul {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 40%;
+  margin: 10px auto;
+  font-weight: 600;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 50px auto;
+  font-weight: 600;
+}
+
+.top {
+  padding-top: 100px;
+  background-color: #ffa45b;
+  color: white;
+
+}
+.topcloud {
+  position: absolute;
+  right: 250px;
+}
+
+.botcloud {
+  position: absolute;
+  left: 200px;
+}
+
+.mount {
+  position: relative;
+}
+
+.middle-container {
+  margin: 50px auto;
+}
+.skill-row {
+  text-align: left;
+  line-height: 2;
+  margin: 50px auto;
+  width: 50%;
+  font-weight: 600;
+}
+
+.bag {
+  margin-right: 30px;
+  float: left;
+}
+
+.wheel {
+  margin-left: 30px;
+  float: right;
+}
+
+.footer-link {
+  text-decoration: none;
+  font-weight: bold;
+  margin: 20px;
+  color: #aee6e6;
+  font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+  color: #aef6f6;
+}
+
+.bottom-container {
+  padding: 50px 0 50px 0;
+  background-color: #ffa45b;
+  color: white;
+}
+
+.BUTTON_JOZ {
+  margin: 10px;
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: sans-serif;
+   width: 100px;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 20px;
+   background-color: #FFA45B;
+   -webkit-box-shadow: 1px 1px 2px 0 #000000;
+   -moz-box-shadow: 1px 1px 2px 0 #000000;
+   box-shadow: 1px 1px 2px 0 #000000;
+   text-shadow: 1px 1px 10px #FFFFFF;
+   border: solid #FFA45B 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_JOZ:hover {
+   background: #FFA45B;
+   border: solid #FFA45B 1px;
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
+   text-decoration: none;
+}
